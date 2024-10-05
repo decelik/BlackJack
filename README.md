@@ -1,5 +1,14 @@
 # BlackJack Spiel mit grafischer Benutzeroberfläche
 
+
+
+
+![Screenshot 2024-10-05 124732](https://github.com/user-attachments/assets/0b278199-00e1-40f5-ba07-850e0402594d)
+
+
+
+
+
 Dieses Java-Programm implementiert ein BlackJack-Spiel mit einer grafischen Benutzeroberfläche (GUI). Der Spieler tritt gegen den Dealer an und versucht, mit seinen Karten so nah wie möglich an 21 Punkte zu kommen, ohne diesen Wert zu überschreiten.
 
 ## Programmübersicht
@@ -43,9 +52,4 @@ Das Programm bietet eine grafische Oberfläche, in der die Karten des Spielers u
 javac App.java
 java App
 ```
-
-
-![Screenshot 2024-10-05 124732](https://github.com/user-attachments/assets/0b278199-00e1-40f5-ba07-850e0402594d)
-
-
 
