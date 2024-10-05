@@ -42,6 +42,10 @@ Das Programm bietet eine grafische Oberfläche, in der die Karten des Spielers u
 ```bash
 javac App.java
 java App
+```
 
 
 ![Screenshot 2024-10-05 124732](https://github.com/user-attachments/assets/0b278199-00e1-40f5-ba07-850e0402594d)
+
+
+
